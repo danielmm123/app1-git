@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<widget xmlns ="http://www.w">.org/ns/widgets"
-  xmlns:gap=""http://phonegap.com/ns/1.0
+<widget xmlns ="http://www.w3.org/ns/widgets"
+  xmlns:gap="http://phonegap.com/ns/1.0"
   id ="com.phonegap.example1"
   version ="1.0.0"
   
@@ -11,7 +11,7 @@
   aplicacion que muestra los DATOS del alumno
  </description>
  
- <author href="https://build.phonegap.com" email="@gmail.com">
+ <author href="https://build.phonegap.com" email="daniel.munoz.mojica.cbtis16@gmail.com">
   Daniel Muñoz Mojica 4E
  </author>
  
